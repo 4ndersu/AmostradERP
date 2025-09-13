@@ -1,0 +1,21 @@
+NOTA FISCAL
+===================================
+Empresa:: AmostradERP
+CNPJ:: 84.495.560/0001-54
+Município:: Salgueiro
+Estado:: Pernambuco
+===================================
+Cliente: Alyne
+Email:: al***@gmail.com
+Telefone:: 99*
+-----------------------------------
+Título ID:: b5889939-3139-4707-93ee-33dbd2b31b93
+Valor pago: R$ 7,00
+Departamento: Limpeza
+Status: Pago: Pago
+Forma de Pagamento: Pagamento em Dinheiro
+===================================
+
+-----------------------------------
+Data e Hora da Emissão:: 25/10/2024 14:53:23 BRT
+Chave de Acesso:: f6155461-cf56-48cf-a60b-df16906d682f

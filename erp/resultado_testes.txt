@@ -1,0 +1,54 @@
+Teste de log de operação: PASSED
+Teste de tratamento de erro ao gravar log: FAILED - Não ocorreu erro esperado.
+Teste de formatação de timestamp: PASSED
+Teste de ZoneId para Locale: PASSED
+Teste adicionar cliente: PASSED
+Teste listar clientes: PASSED
+Teste salvar clientes: PASSED
+Teste carregar clientes: PASSED
+Teste adicionar cliente duplicado: PASSED
+Teste adicionar departamento: PASSED
+Teste buscar departamento por ID: PASSED
+Teste listar departamentos: PASSED
+Teste salvar departamentos: PASSED
+Teste carregar departamentos: PASSED
+Teste adicionar produto: PASSED
+Teste salvar produtos: PASSED
+Teste carregar produtos: PASSED
+Teste criptografia: PASSED
+Teste fromString: PASSED
+Teste fromString formato inválido: PASSED
+Teste adicionar título: PASSED
+Teste salvar títulos: PASSED
+Teste carregar títulos: PASSED
+Teste criptografia: PASSED
+Teste fromString: PASSED
+Teste fromString formato inválido: PASSED
+Teste adicionar gerente: PASSED
+Teste adicionar atendente: PASSED
+Teste adicionar supervisor: PASSED
+Teste adicionar estoquista: PASSED
+Teste adicionar produto: PASSED
+Teste adicionar título: PASSED
+Teste salvar e carregar loja: PASSED
+Teste cadastrar ou entrar loja: PASSED
+Teste funcionalidade disponível (Básico): PASSED
+Teste funcionalidade disponível (Premium): PASSED
+Teste funcionalidade disponível (Deluxe): PASSED
+Teste de criação de Atendente: PASSED
+Teste de permissões do Atendente: PASSED
+Teste de criação de Estoquista: PASSED
+Teste de permissões do Estoquista: PASSED
+Teste de criação de Gerente: PASSED
+Teste de permissões do Gerente: PASSED
+Teste de gerenciamento de assinatura: PASSED
+Teste de criação de Supervisor: PASSED
+Teste de permissões do Supervisor: PASSED
+Teste adicionar produto: PASSED
+Teste listar produtos: PASSED
+Teste compra produto: PASSED
+Teste pagamento: PASSED
+Teste relatório de vendas por departamento: PASSED
+Teste criar contrato(Blockchain): PASSED
+Teste visualizar contratos(Blockchain): PASSED
+Teste desativar contrato(Blockchain): PASSED

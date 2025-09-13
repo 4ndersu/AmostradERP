@@ -1,0 +1,21 @@
+NOTA FISCAL
+===================================
+Empresa:: AmostradERP
+CNPJ:: 84.495.560/0001-54
+Município:: Salgueiro
+Estado:: Pernambuco
+===================================
+Cliente: anderon
+Email:: an*****@gmail.com
+Telefone:: an***************
+-----------------------------------
+Título ID:: dad2ffc6-0a25-444f-9e7f-b7e2993f99e5
+Valor pago: R$ 150,00
+Departamento: Roupa
+Status: Pago: Pago
+Forma de Pagamento: Pagamento em Dinheiro
+===================================
+
+-----------------------------------
+Data e Hora da Emissão:: 25/10/2024 13:37:57 BRT
+Chave de Acesso:: 0621e69a-ca58-4fe4-b14a-2bd95a612ada

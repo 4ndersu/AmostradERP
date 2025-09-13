@@ -1,0 +1,21 @@
+NOTA FISCAL
+===================================
+Empresa:: AmostradERP
+CNPJ:: 84.495.560/0001-54
+Município:: Salgueiro
+Estado:: Pernambuco
+===================================
+Cliente: Andersu
+Email:: an*****@gmail.com
+Telefone:: 98*
+-----------------------------------
+Título ID:: 57850786-da39-460c-b6d2-6526421ef5d7
+Valor pago: R$ 5,00
+Departamento: Alimentos
+Status: Pago: Pago
+Forma de Pagamento: Pagamento em Dinheiro
+===================================
+
+-----------------------------------
+Data e Hora da Emissão:: 25/10/2024 14:54:07 BRT
+Chave de Acesso:: 7406ba0f-2861-4f62-972c-0ee82af0d626

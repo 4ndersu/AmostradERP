@@ -1,0 +1,1 @@
+Projeto de simulação de um ERP didático atraves de um trabalho feito na Universidade Federal do Vale do São Francisco(UNIVASF) na disciplina de Administração do curso Barcharelado em CIência da Computação, semstre 2024.1.
